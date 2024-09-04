@@ -1,8 +1,8 @@
-<img src="https://s3.amazonaws.com/sibomsahu/readme-logo.png" width="250" align="right">
+<img src="https://signature.freefire-name.com/s/sibom" width="250" align="right">
 
 # Project Summary
 
-In this project, we'll be practicing inserting and querying data using SQL. We'll make use of an online database emulator tool found  <a href="https://postgres.devmountain.com/">Here</a>. Careful, if you reload the page your changes will be lost.
+In this project, we'll be practicing inserting and querying data using SQL. We'll make use of an online database emulator tool found  <a href="https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor">Here</a>. Careful, if you reload the page your changes will be lost.
 
 On the left are the Tables with their fields. The right is where we will be writing our queries. The bottom is where we will see our results.  
 
@@ -106,8 +106,8 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 
 ## Copyright
 
-© Sibom LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
+© Sibom LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to SIBOM with appropriate and specific direction to the original content.
 
 <p align="center">
-<img src="https://s3.amazonaws.com/sibomsahu/readme-logo.png" width="250">
+<img src="https://signature.freefire-name.com/s/sibom" width="250">
 </p>
