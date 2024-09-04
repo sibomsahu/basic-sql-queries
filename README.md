@@ -1,4 +1,4 @@
-<img src="https://signature.freefire-name.com/img.php?f=2&t=Sibom" width="100" align="right">
+<img src="https://signature.freefire-name.com/img.php?f=2&t=Sibom" width="150" align="right">
 
 # Project Summary
 
