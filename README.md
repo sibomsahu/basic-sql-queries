@@ -106,7 +106,7 @@ If you see a problem or a typo, please fork, make the necessary changes, and cre
 
 ## Copyright
 
-© Sibom LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to SIBOM with appropriate and specific direction to the original content.
+© Sibom LLC, 2017. Unauthorized use and/or duplication of this material without express and written permission from Sibom, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to Sibom with appropriate and specific direction to the original content.
 
 <p align="center">
 <img src="https://signature.freefire-name.com/img.php?f=2&t=Sibom" width="250">
